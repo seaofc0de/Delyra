@@ -28,7 +28,6 @@ Built for speed, simplicity, and security.
   - Firebase (Firestore, Auth, FCM)  
   - Cloudinary (for media uploads)  
   - OpenAI API (for AI features)
-	- MongoDB
 
 ---
 
