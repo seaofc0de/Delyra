@@ -48,10 +48,6 @@ AI services can be powered by **OpenAI**, **Google ML Kit**, or custom models.
 
 ## ❓ FAQ
 
-### Does Delyra need a backend server?
-
-No. Firebase + Cloudinary + OpenAI API removes the need for your own backend.
-
 ### Is AI required?
 
 No. AI features are optional and can be toggled by the user.
@@ -62,8 +58,7 @@ Yes. All profile pictures are uploaded via secure signed upload to Cloudinary an
 
 ### How much does this cost?
 
-- Firebase and Cloudinary both offer free tiers.  
-- OpenAI offers limited free credits. You can upgrade any of them as needed.
+- All of free.
 
 ### Can I contribute?
 
