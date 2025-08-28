@@ -1,17 +1,13 @@
 # Delyra
 
-**Delyra** is a modern, real-time messaging app for **Web**, **Android**, and **iOS** with built-in **AI features** and **Cloudinary-based profile image management**.  
+**Delyra** is a modern, real-time messaging app for **Web**, **Android**, and **iOS** with built-in **AI features**.  
 Built for speed, simplicity, and security.
 
 ---
 
 ## 🚀 Features
 
-- 🔐 Firebase Authentication (email, Google login)
-- 💬 Real-time messaging with Firestore
-- 🖼️ Profile photos via Cloudinary CDN
 - 🧠 Built-in AI assistant for smart messaging
-- 🔔 Push notifications (FCM)
 - 📱 Cross-platform support (Web, Android, iOS)
 - 🌙 Light & Dark mode
 
@@ -27,7 +23,9 @@ Built for speed, simplicity, and security.
 - **Backend Services**  
   - Firebase (Firestore, Auth, FCM)  
   - Cloudinary (for media uploads)  
-  - OpenAI API (for AI features)
+  - OpenAI API
+  - LuanAI API
+  - SupaBase
 
 ---
 
@@ -41,8 +39,8 @@ Delyra includes AI-powered features to assist and enhance conversations:
 - 🚫 Auto-moderation to detect harmful content  
 - 🌍 Language translation (real-time)
 
-AI services can be powered by **OpenAI**, **Google ML Kit**, or custom models.  
-> Users can toggle AI features in the settings.
+AI services can be powered by **OpenAI**, **Google ML Kit**, **LuanAI** or custom models.  
+> Users can change AI features.
 
 ---
 
@@ -50,11 +48,11 @@ AI services can be powered by **OpenAI**, **Google ML Kit**, or custom models.
 
 ### Is AI required?
 
-No. AI features are optional and can be toggled by the user.
+No. AI features are optional and can be changed by the user.
 
-### Can I store images securely?
+### Can I share data securely?
 
-Yes. All profile pictures are uploaded via secure signed upload to Cloudinary and delivered via their CDN.
+Yes. All of your messages crypting with end-to-end cryption.
 
 ### How much does this cost?
 
